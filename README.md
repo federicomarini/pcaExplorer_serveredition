@@ -1,4 +1,4 @@
-# pcaExplorer - Interactive exploration of Principal Components of Samples and Genes in RNA-seq data - *Server Edition*
+# `pcaExplorer` - Interactive exploration of Principal Components of Samples and Genes in RNA-seq data - *Server Edition*
 
 `pcaExplorer` is a Bioconductor package containing a Shiny application for analyzing expression data
 in different conditions and experimental factors.
