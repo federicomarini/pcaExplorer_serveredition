@@ -29,7 +29,7 @@ http://docs.rstudio.com/shiny-server/#quick-start
 
 Follow the indications in the main reference guide to see whether you have all packages installed, 
 and visit the address which will refer to the address of your server 
-(http://<server-address>:3838/sample-apps/hello/). 
+(http://your.server.address:3838/sample-apps/hello/). 
 
 
 ## Setting up `pcaExplorer`
@@ -115,7 +115,7 @@ Credits go to Mark Robinson for suggesting this parameter setup!
 You might need to restart the Shiny Server (`systemctl restart shiny-server` on Ubuntu). Then you should 
 be good to go!
 
-Visit http://<server-address>:3838/pcaExplorer for your personal running instance.
+Visit http://your.server.address:3838/pcaExplorer for your personal running instance.
 
 
 ## `pcaExplorer` at the IMBEI
